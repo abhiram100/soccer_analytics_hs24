@@ -1,0 +1,9 @@
+data/*
+input/*
+primer on project data/input/*
+primer on project data/results/*
+*.png
+.vscode
+__pycache__
+eventvideo.zip
+matchids.csv
